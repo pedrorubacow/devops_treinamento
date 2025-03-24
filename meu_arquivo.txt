@@ -1,2 +1,3 @@
 LEGALLLLL
 Alteração feita na branch minha-feature
+Alteração na main que vai gerar conflito
